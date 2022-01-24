@@ -8,6 +8,7 @@ import jp.jc21.t.yoshizawa.otopika.Otopika;
 /**
  * @author AB2B15
  *
+ *
  */
 public class OtoSample01  {
 
